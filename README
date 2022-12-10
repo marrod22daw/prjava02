@@ -1,0 +1,25 @@
+Apartat 1:
+git clone https://github.com/dacomo2021daw2/prjava02.git
+Apartat 5:
+git checkout main | git log
+Apartat 7:
+git checkout branca00
+Apartat 10b:
+git merge branca00
+Apartat 12:
+git push
+Apartat 14a:
+git push origin branca01
+
+
+6-Des de geany, actualitza el contingut del fitxer Prjava02.java. Pots veure l'última línia afegida?. Per què?
+No. Perque em trobo en una branca diferent a la que he modificat.
+
+7-Torna a la branca branca00. Des de geany, actualitza el contingut del fitxer Prjava02.java. Pots veure l'última línia afegida?. Per què?.
+Ara si, perque m'he cambiat a la branca on he fet la modificació
+
+12c-Comprova que només s'ha actualitzat la branca main únicament. Per què?.
+Perque el git push s'ha fet estant a la branca main, per tant nomes s'actualitza aquesta branca.
+
+14c-A quants commits de distància (commit ahead) està de la branca main?
+A un commit de distancia, el propi GitHub t'ho diu
